@@ -7,6 +7,8 @@ Desarrollado por: Alejandro Panizo Jerez y Aitor García Camargo
 ****MANUAL DE USO****
 ![Captura de pantalla 2022-06-21 231245](https://user-images.githubusercontent.com/98469786/174898434-18fdc63a-bde4-4c3e-b0b7-0a1a9260ea30.png)
 
+![Captura de pantalla 2022-06-21 232934](https://user-images.githubusercontent.com/98469786/174900537-9e361982-b3ee-432c-89dc-f6c893a3aeb6.png)
+
 **LOGIN Y DATOS**
 
 Para iniciar sesión o registrarse hay que utilizar el menú de Jugador Principal situado en la parte superior derecha. 
