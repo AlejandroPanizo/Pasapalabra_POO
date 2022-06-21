@@ -32,7 +32,7 @@ Modificar Jugador: Un administrador puede modificar, crear o eliminar a otros us
 Tenemos un sistema para poder crear ficheros binarios a partir de los datos que hay introducidos en el sistema en el momento de la acción de cargar y para poder extraerlos de ficheros binarios. Dentro del .rar del programa completo y en la carpeta del ejecutable de la aplicación hemos añadido los ficheros necesarios para cargar palabras en el rosco o cargar jugadores.
 
 
-**DIAGRAMA VML**
+**DIAGRAMA UML**
 
 ![Captura de pantalla 2022-06-21 234226](https://user-images.githubusercontent.com/98469786/174902171-3921f869-de1b-4608-b90d-023b9369c93a.png)
 
