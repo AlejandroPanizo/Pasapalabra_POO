@@ -19,6 +19,7 @@ En Historial de Partidas podemos ver todas las partidas disputadas por el jugado
 **MODOS DE JUEGO**
 
 -Entrenamiento: Se puede jugar con un único usuario logueado, es necesario cargar un fichero binario de palabras (Hemos adjuntado un fichero binario llamado Palabras1) y seleccionar el número de letras que queremos para el rosco, con un máximo de 26. Una vez finalizado el entrenamiento el botón reiniciar partida reinicia la interfaz y actualiza los puntos en caso de ser necesario.
+
 -Modo VS: Tenemos que introducir las credenciales de un jugador ya registrado en el apartado de Segundo Jugador, además de añadir los correspondientes ficheros de palabras (se adjuntan los ficheros binarios Palabras1 y Palabras2). Una vez terminada la partida hay que pulsar reiniciar partida para reiniciar la interfaz y el reparto de puntos, ya estaría disponible el mostrar historial de partidas.
 
 
